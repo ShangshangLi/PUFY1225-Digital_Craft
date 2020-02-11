@@ -1,7 +1,7 @@
 # Digital Craft Spring-'20
 
 ## Homework Week 1
-* [blog entry]()
+* [blog entry](https://www.openprocessing.org/sketch/566877)
 
 ## Homework Week 2
 * [sketch 1]()
