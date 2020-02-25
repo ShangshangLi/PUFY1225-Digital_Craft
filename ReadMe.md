@@ -13,4 +13,8 @@
 * [sketch 2](https://shangshangli.github.io/PUFY1225-Digital_Craft/wk3hw/sketch2/index.html)
 * [sketch 3](https://shangshangli.github.io/PUFY1225-Digital_Craft/wk3hw/sketch3/index.html)
 
+## Homework Week 5
+* [SVG](https://shangshangli.github.io/PUFY1225-Digital_Craft/wk5hw/index.html)
+
+
 ![aternate next](web address)
