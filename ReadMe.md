@@ -17,4 +17,7 @@
 * [SVG](https://shangshangli.github.io/PUFY1225-Digital_Craft/wk5hw/index.html)
 * [Learning Portfolio Link - Pictures of the Laser Cutting Result - Acrylic Star Light](https://portfolio.newschool.edu/shangshangli/2020/02/25/digital-craft-laser-cutting-project/)
 
+## Homework Week 6
+* [sketch](https://shangshangli.github.io/PUFY1225-Digital_Craft/wk6hw/index.html)
+
 ![aternate next](web address)
