@@ -20,4 +20,7 @@
 ## Homework Week 6
 * [sketch](https://shangshangli.github.io/PUFY1225-Digital_Craft/wk6hw/index.html)
 
+## Homework Week 7
+* [sketch](https://shangshangli.github.io/PUFY1225-Digital_Craft/wk7hw/index.html)
+
 ![aternate next](web address)
