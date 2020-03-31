@@ -23,4 +23,7 @@
 ## Homework Week 7
 * [3D Model](https://shangshangli.github.io/PUFY1225-Digital_Craft/wk7hw/index.html)
 
+## Homework Week 8
+* [3D Printing](https://portfolio.newschool.edu/shangshangli/2020/03/31/digital-craft-3d-printing/)
+
 ![aternate next](web address)
