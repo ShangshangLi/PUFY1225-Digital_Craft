@@ -33,5 +33,6 @@
 * [Output - Vedio](https://shangshangli.github.io/PUFY1225-Digital_Craft/wk9/output.mp4)
 * [Input](https://build.particle.io/build/5e8c698341cc980007bdd75a)
 * [RGB Control - Vedio](https://shangshangli.github.io/PUFY1225-Digital_Craft/wk9/intput.mp4)
+* [Another Access to the Vedios (LP Link)](https://portfolio.newschool.edu/shangshangli/2020/04/07/digital-craft-week-9-hw/)
 
 ![aternate next](web address)
