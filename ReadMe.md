@@ -26,5 +26,9 @@
 ## Homework Week 8
 * [3D Printing](https://portfolio.newschool.edu/shangshangli/2020/03/31/digital-craft-3d-printing/)
 
+## Homework Week 9
+* [RGB Control](https://build.particle.io/build/5e8c6b1641cc98000cbdd8bf)
+* [Iutput](https://build.particle.io/build/5e8c632b41cc98000cbdd89c)
+* [Input](https://build.particle.io/build/5e8c698341cc980007bdd75a)
 
 ![aternate next](web address)
